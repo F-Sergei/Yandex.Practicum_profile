@@ -1,0 +1,26 @@
+# Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости
+
+[md](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/02.%20Продажа%20квартир%20в%20Санкт-Петербурге%20—%20анализ%20рынка%20недвижимости/Research_of_ads_for_the_sale_of_apartments.md/Research_of_ads_for_the_sale_of_apartments.md)  |  [ipynb](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/02.%20Продажа%20квартир%20в%20Санкт-Петербурге%20—%20анализ%20рынка%20недвижимости/Research_of_ads_for_the_sale_of_apartments.ipynb)  |  [pdf](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/02.%20Продажа%20квартир%20в%20Санкт-Петербурге%20—%20анализ%20рынка%20недвижимости/Research_of_ads_for_the_sale_of_apartments.pdf)
+
+## Описание проекта
+
+Определение рыночной стоимости объектов недвижимости и типичных параметров квартир. 
+
+Данные: датасет из сервиса Яндекс.Недвижимость. 
+
+
+## Навыки и инструменты
+
+- python
+- pandas
+- matplotlib
+- исследовательский анализ данных
+- визулизация данных 
+- предобработка данных
+
+
+## Вывод
+
+Было проведено исследование архива объявлений о продаже квартир, в ходе которого выявлено влияние разных параметров на рыночную стоимость объектов недвижимости. Результаты исследования будут учтены при построении автоматизированной системы, которая будет отслеживать аномалии и мошенническую деятельность.
+
+[Ссылка на портфолио](https://github.com/F-Sergei/Portfolio_for_data_analyst/tree/main)
