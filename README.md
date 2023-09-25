@@ -1,13 +1,13 @@
 # Проекты по аналитике данных
 
-[![Яндекс.Практикум](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/Logo_-_Yandex.Practicum.jpeg)](https://praktikum.yandex.ru/)
+[![Яндекс.Практикум](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/Logo_-_Yandex.Practicum.jpeg)](https://praktikum.yandex.ru/)
 
 Портфолио реализованных проектов в ходе обучения профессии "Аналитик данных" на платформе ["Яндекс.Практикум"](https://praktikum.yandex.ru/). 
 
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Исследование надежности заемщиков](hhttps://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/01.%20Исследование%20надежности%20заемщиков%20(Предобработка%20данных)) | Исследование влияния семейного положения и количества детей на факт возврата кредита в срок. | python, pandas, matplotlib, seaborn       |
+| 1.   | [Исследование надежности заемщиков](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/01.%20Исследование%20надежности%20заемщиков%20(Предобработка%20данных)) | Исследование влияния семейного положения и количества детей на факт возврата кредита в срок. | python, pandas, matplotlib, seaborn       |
 | 2.   | [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/F-Sergei/Yandex.Practicum_profile/tree/main/02.%20Продажа%20квартир%20в%20Санкт-Петербурге%20—%20анализ%20рынка%20недвижимости) | Определение рыночной стоимости объектов недвижимости и типичных параметров квартир. | python, pandas, matplotlib, исследовательский анализ данных, визулизация данных, предобработка данных |
 | 3.   | [Исследование данных о продажах игр](https://github.com/F-Sergei/Yandex.Practicum_profile/tree/main/03.%20Исследование%20данных%20о%20продажах%20игр%20(Сборный%20проект%201)) | Выявление определяющих успешность игры закономерностей. | python, pandas, numpy, math, statistics, seaborn, scipy, re, tqdm |
 | 4.   | [Анализ развлекательного приложения Procrastinate Pro+](https://github.com/F-Sergei/Yandex.Practicum_profile/tree/main/04.%20Анализ%20развлекательного%20приложения%20Procrastinate%20Pro%2B) | Проведение анализа рекламной кампании развлекательного приложения, выяснение причин их убытков. | python, pandas, numpy, seaborn, datetime, plotly |
