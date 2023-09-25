@@ -1,6 +1,6 @@
 # Проект по А/B-тестированию
 
-[md](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/10.%20Проект%20по%20АB-тестированию/AB_testing.md/AB_testing.md)  |  [ipynb](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/10.%20Проект%20по%20АB-тестированию/AB_testing.ipynb)  |  [pdf](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/10.%20Проект%20по%20АB-тестированию/AB_testing.pdf)
+[md](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/10.%20Проект%20по%20АB-тестированию/AB_testing.md/AB_testing.md)  |  [ipynb](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/10.%20Проект%20по%20АB-тестированию/AB_testing.ipynb)  |  [pdf](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/10.%20Проект%20по%20АB-тестированию/AB_testing.pdf)
 
 ## Описание проекта
 

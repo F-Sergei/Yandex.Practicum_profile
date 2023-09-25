@@ -1,6 +1,6 @@
 # Исследование данных о продажах игр
 
-[md](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/03.%20Исследование%20данных%20о%20продажах%20игр/Researching_game_sales_data.md/Researching_game_sales_data.md)  |  [ipynb](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/03.%20Исследование%20данных%20о%20продажах%20игр/Researching_game_sales_data.ipynb)  |  [pdf](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/03.%20Исследование%20данных%20о%20продажах%20игр/Researching_game_sales_data.pdf)
+[md](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/03.%20Исследование%20данных%20о%20продажах%20игр/Researching_game_sales_data.md/Researching_game_sales_data.md)  |  [ipynb](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/03.%20Исследование%20данных%20о%20продажах%20игр/Researching_game_sales_data.ipynb)  |  [pdf](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/03.%20Исследование%20данных%20о%20продажах%20игр/Researching_game_sales_data.pdf)
 
 ## Описание проекта
 

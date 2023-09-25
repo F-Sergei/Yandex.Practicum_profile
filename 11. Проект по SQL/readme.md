@@ -1,6 +1,6 @@
 # Проект по SQL
 
-[md](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/11.%20Проект%20по%20SQL/SQL_project.md)  |  [ipynb](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/11.%20Проект%20по%20SQL/SQL_project.ipynb)  |  [pdf](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/11.%20Проект%20по%20SQL/SQL_project.pdf)
+[md](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/11.%20Проект%20по%20SQL/SQL_project.md)  |  [ipynb](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/11.%20Проект%20по%20SQL/SQL_project.ipynb)  |  [pdf](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/11.%20Проект%20по%20SQL/SQL_project.pdf)
 
 ## Описание проекта
 

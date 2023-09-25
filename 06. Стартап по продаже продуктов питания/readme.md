@@ -1,6 +1,6 @@
 # Стартап по продаже продуктов питания
 
-[md](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/06.%20Стартап%20по%20продаже%20продуктов%20питания/A_startup_selling_food.md/A_startup_selling_food.md)  |  [ipynb](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/06.%20Стартап%20по%20продаже%20продуктов%20питания/A_startup_selling_food.ipynb)  |  [pdf](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/06.%20Стартап%20по%20продаже%20продуктов%20питания/A_startup_selling_food.pdf)
+[md](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/06.%20Стартап%20по%20продаже%20продуктов%20питания/A_startup_selling_food.md/A_startup_selling_food.md)  |  [ipynb](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/06.%20Стартап%20по%20продаже%20продуктов%20питания/A_startup_selling_food.ipynb)  |  [pdf](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/06.%20Стартап%20по%20продаже%20продуктов%20питания/A_startup_selling_food.pdf)
 
 ## Описание проекта
 

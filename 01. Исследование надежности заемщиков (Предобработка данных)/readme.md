@@ -1,6 +1,6 @@
 # Исследование надежности заемщиков
 
-[md](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/01.%20Исследование%20надежности%20заемщиков%20(Предобработка%20данных)/Investigation_of_the_reliability_of_borrowers.md/Investigation_of_the_reliability_of_borrowers.md)  |  [ipynb](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/01.%20Исследование%20надежности%20заемщиков%20(Предобработка%20данных)/Investigation_of_the_reliability_of_borrowers.ipynb)
+[md](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/01.%20Исследование%20надежности%20заемщиков%20(Предобработка%20данных)/Investigation_of_the_reliability_of_borrowers.md/Investigation_of_the_reliability_of_borrowers.md)  |  [ipynb](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/01.%20Исследование%20надежности%20заемщиков%20(Предобработка%20данных)/Investigation_of_the_reliability_of_borrowers.ipynb)
 
 ## Описание проекта
 

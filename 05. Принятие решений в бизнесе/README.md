@@ -1,6 +1,6 @@
 # Принятие решений в бизнесе
 
-[md](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/05.%20Принятие%20решений%20в%20бизнесе/Decision_making_in_business.md/Decision_making_in_business.md)  |  [ipynb](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/05.%20Принятие%20решений%20в%20бизнесе/Decision_making_in_business.ipynb)  |  [pdf](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/05.%20Принятие%20решений%20в%20бизнесе/Decision_making_in_business.pdf)
+[md](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/05.%20Принятие%20решений%20в%20бизнесе/Decision_making_in_business.md/Decision_making_in_business.md)  |  [ipynb](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/05.%20Принятие%20решений%20в%20бизнесе/Decision_making_in_business.ipynb)  |  [pdf](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/05.%20Принятие%20решений%20в%20бизнесе/Decision_making_in_business.pdf)
 
 ## Описание проекта
 

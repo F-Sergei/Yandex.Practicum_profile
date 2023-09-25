@@ -1,6 +1,6 @@
 # Анализ развлекательного приложения Procrastinate Pro+
 
-[md](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/04.%20Анализ%20развлекательного%20приложения%20Procrastinate%20Pro%2B/Analysis_of_the_Procrastinate_Pro%2B_entertainment_application.md/Analysis_of_the_Procrastinate_Pro%2B_entertainment_application.md)  |  [ipynb](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/04.%20Анализ%20развлекательного%20приложения%20Procrastinate%20Pro%2B/Analysis_of_the_Procrastinate_Pro%2B_entertainment_application.ipynb)  |  [pdf](https://github.com/F-Sergei/Portfolio_yandex_practicum_-_data_analyst/blob/main/04.%20Анализ%20развлекательного%20приложения%20Procrastinate%20Pro%2B/Analysis_of_the_Procrastinate_Pro%2B_entertainment_application.pdf)
+[md](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/04.%20Анализ%20развлекательного%20приложения%20Procrastinate%20Pro%2B/Analysis_of_the_Procrastinate_Pro%2B_entertainment_application.md/Analysis_of_the_Procrastinate_Pro%2B_entertainment_application.md)  |  [ipynb](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/04.%20Анализ%20развлекательного%20приложения%20Procrastinate%20Pro%2B/Analysis_of_the_Procrastinate_Pro%2B_entertainment_application.ipynb)  |  [pdf](https://github.com/F-Sergei/Yandex.Practicum_profile/blob/main/04.%20Анализ%20развлекательного%20приложения%20Procrastinate%20Pro%2B/Analysis_of_the_Procrastinate_Pro%2B_entertainment_application.pdf)
 
 ## Описание проекта
 
