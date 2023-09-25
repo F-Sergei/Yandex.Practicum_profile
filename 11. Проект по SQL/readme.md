@@ -21,4 +21,4 @@
 
 Выполнены SQL запросы, сделаны выводы на их основе.
 
-[Ссылка на портфолио](https://github.com/F-Sergei/Portfolio_for_data_analyst/tree/main)
+[Ссылка на портфолио](https://github.com/F-Sergei/Yandex.Practicum_profile/tree/main)

@@ -28,4 +28,4 @@
 
 Проведено исследование рынка Москвы, стоимости кашки кофе, в конце отчёта приведены рекоммендации.
 
-[Ссылка на портфолио](https://github.com/F-Sergei/Portfolio_for_data_analyst/tree/main)
+[Ссылка на портфолио](https://github.com/F-Sergei/Yandex.Practicum_profile/tree/main)

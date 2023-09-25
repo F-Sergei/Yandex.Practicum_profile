@@ -26,4 +26,4 @@
 
 Исходя из обнаруженных фактов, тест решено остановить и признать победу группы B. Приведены комментарии для других отделов.
 
-[Ссылка на портфолио](https://github.com/F-Sergei/Portfolio_for_data_analyst/tree/main)
+[Ссылка на портфолио](https://github.com/F-Sergei/Yandex.Practicum_profile/tree/main)
